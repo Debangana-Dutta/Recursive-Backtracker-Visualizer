@@ -10,4 +10,4 @@ Data Structures: The project heavily relies on Lists for grid representation and
 
 # How to Run
 1. Install dependencies: `pip install pygame`
-2. Execute the engine: `python maze_engine.py`
+2. Execute the engine: `python 2d_maze.py`
